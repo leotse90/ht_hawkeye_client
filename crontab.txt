@@ -1,0 +1,5 @@
+# hawkeye monitor client
+# author:leotse
+
+# server monitor
+* * * * * python /home/xiefeng/code/ht_hawkeye_client/server_health_monitor.py >/dev/null 2>/dev/null &
